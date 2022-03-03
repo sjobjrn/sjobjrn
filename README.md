@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjobjrn
-- 👀 I’m interested in Linux, Python and much more!
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Linux, Python, C and much more!
+- 🌱 I’m currently learning C, Python and Linux
 
 
 <!---
