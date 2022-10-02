@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sjobjrn
+- 👋 Hi, I’m Samuel Sjöberg
 - 👀 I’m interested in Linux, Python, Storage, Network, Vmware, Netapp, Git and much more
 
 
